@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Joole
+Joole is an online shopping model, and this is the front end of it.
 
 ## Available Scripts
 
